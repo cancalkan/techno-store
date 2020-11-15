@@ -1,0 +1,8 @@
+@media  (max-width:799px){
+.logopc,.nav-cart-icon{
+    display:none
+}
+.navbar-toggle{
+}
+
+}

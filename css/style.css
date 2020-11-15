@@ -78,7 +78,7 @@
 }
 
 .bg-light {
-  background-color: #f7f8f9;
+  background-color: #fff;
 }
 
 .bg-white {
@@ -107,6 +107,11 @@
 
 .right {
   float: right;
+}
+.carttext{
+  font-size:25px;
+  text-align: center;
+  margin-bottom: -20px;
 }
 
 .valign {
